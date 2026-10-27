@@ -1,9 +1,9 @@
 {
-  "version": "2.0.0",
-  "versionCode": 20000,
+  "version": "2.0.1",
+  "versionCode": 20001,
   "minSupportedVersion": "2.0.0",
   "minSupportedVersionCode": 20000,
-  "downloadUrl": "https://github.com/Pratik98755/v5ibe/releases/download/v1.1.1/v5ibe_v1.1.1.apk",
-  "releaseNotes": "Faster startup, new EQ presets, bug fixes.",
+  "downloadUrl": "https://github.com/Pratik98755/v5ibe/releases/download/v2.0.1/v5ibe_v2.0.1.apk",
+  "releaseNotes": "10X faster app intialization. Double tap to seek +10s/-10s on the artwork in Music Page. & some other changes.",
   "releasedAt": 1792012345678
 }
